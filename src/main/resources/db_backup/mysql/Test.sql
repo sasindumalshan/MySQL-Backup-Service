@@ -1,0 +1,2 @@
+-- test sql file
+-- this file created for add database backup file path in gitignore file
